@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rahul Dewangan
 
-🎓 2nd Year Student at IIIT Raichur  
+🎓 3rd Year Student at IIIT Raichur  
 🤖 AI/ML Enthusiast | Python Developer  
 🚀 Passionate about Machine Learning, Deep Learning & Computer Vision  
 
